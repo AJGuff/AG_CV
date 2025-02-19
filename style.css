@@ -13,6 +13,15 @@ body {
     color: #fff;
     margin: 0;
 }
+#links{
+    color: #FF4F1F;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.links a:hover{
+    color: #fff;
+
+}
 
 /* Navbar Styles */
 .navbar {
@@ -31,7 +40,7 @@ body {
 }
 
 .navbar .logo {
-    font-size: 1.4rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: #fff;
     text-decoration: none;
@@ -49,7 +58,7 @@ body {
 .navbar-links a {
     color: #fff;
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1.6rem;
     padding: 5px 10px;
     transition: color 0.3s ease;
 }
@@ -83,12 +92,12 @@ body {
 
     
 .hero h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     margin-bottom: 5px;
 }
 
 .hero p {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     color: #bbb;
 }
 
