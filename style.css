@@ -23,6 +23,24 @@ body {
     color: #fff;
 
 }
+#links2{
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+#links2:hover{
+    color: #FF4F1F
+
+}
+#links2head{
+    color: #FF4F1F;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+#links2head:hover{
+    color: #fff
+
+}
 
 /* Navbar Styles */
 .navbar {
