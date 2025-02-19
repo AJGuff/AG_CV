@@ -68,7 +68,6 @@ body {
     align-items: center;
     text-align: center;
     flex-direction: column;
-    margin-top: 20px;
 }
 .img{
     height: 150%;
