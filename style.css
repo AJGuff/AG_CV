@@ -8,10 +8,11 @@
 /* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
-    line-height: 1.6;
+    line-height: 1.8;
     background-color: #1a1a1a;
     color: #fff;
     margin: 0;
+    font-size: 1.15rem;
 }
 #links{
     color: #FF4F1F;
@@ -97,7 +98,7 @@ body {
 }
 
 .hero p {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     color: #bbb;
 }
 
